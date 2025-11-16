@@ -248,30 +248,6 @@ python evaluation_tests.py
 
 - **Writeup** (15 pts): This README + clear problem/solution
 
-### Category 2: Implementation (70/70 pts) ✅
-- **3+ Key Concepts** (50 pts):
-  - ✅ Multi-Agent System (orchestrator + 3 specialized sub-agents)
-  - ✅ Tools (5 custom + MCP-ready architecture)
-  - ✅ Sessions & Memory (TouristProfile + Memory Bank)
-  - ✅ Observability (logging, tracing, metrics)
-  - ✅ Evaluation (golden dataset + LLM-as-judge)
-
-- **Code Quality** (50 pts):
-  - Clean, commented, type-hinted Python code
-  - Professional error handling
-  - Modular architecture
-
-- **Documentation** (20 pts):
-  - This README (architecture, features, usage)
-  - Inline code comments
-  - Setup guide with examples
-
-### Bonus Points (20/20 pts) ✅
-- **Gemini Usage** (5 pts): Gemini 2.5-Flash powers all agents
-- **Deployment** (5 pts): Vertex AI Agent Engine ready (see deploy_guide.md)
-- **Video** (10 pts): Strong visual narrative (real Lagos context)
-
-**Total Expected Score: 100+ points (capped at 100)**
 
 ---
 
